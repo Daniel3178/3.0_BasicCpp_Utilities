@@ -1,0 +1,5 @@
+﻿  Main.cpp
+  Timer.cpp
+F:\Programering Archive\SideProjects\3.0_BasicCpp_Timer\Timer.cpp(16,106): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  3.0_BasicCpp_Timer.vcxproj -> F:\Programering Archive\SideProjects\3.0_BasicCpp_Timer\x64\Debug\3.0_BasicCpp_Timer.lib
