@@ -1,0 +1,9 @@
+﻿  Unittest.cpp
+F:\Programering Archive\SideProjects\3.0_BasicCpp_TemplateUtilities\UtilityFunctions.h(100,3): warning C4002: too many arguments for function-like macro invocation 'assert'
+F:\Programering Archive\SideProjects\3.0_BasicCpp_TemplateUtilities\UtilityFunctions.h(118,23): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+F:\Programering Archive\SideProjects\3.0_BasicCpp_TemplateUtilities\Unittest.cpp(115,81): message : see reference to function template instantiation 'int CommonUtilities::Lerp<int>(const T &,const T &,const float &)' being compiled
+          with
+          [
+              T=int
+          ]
+  3.0_BasicCpp_TemplateUtilities.vcxproj -> F:\Programering Archive\SideProjects\3.0_BasicCpp_TemplateUtilities\x64\Debug\3.0_BasicCpp_TemplateUtilities.exe
